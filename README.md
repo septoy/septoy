@@ -1,0 +1,2 @@
+# septoy
+my  blog
